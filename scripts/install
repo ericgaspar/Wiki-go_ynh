@@ -32,7 +32,7 @@ mkdir $install_dir/data
 
 ynh_config_add --template="config.yaml" --destination="$install_dir/data/config.yaml"
 
-chmod -R $app: $install_dir/data
+chown -R $app:$app $install_dir
 
 #=================================================
 # SYSTEM CONFIGURATION
