@@ -12,7 +12,7 @@ server:
     ssl_cert:
     ssl_key:
 wiki:
-    root_dir: __DATA_DIR__
+    root_dir: data
     documents_dir: documents
     title: "📚 Wiki-Go"
     owner: wiki.example.com
