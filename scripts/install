@@ -11,6 +11,7 @@ source /usr/share/yunohost/helpers
 # INITIALIZE AND STORE SETTINGS
 #=================================================
 
+timezone=$(cat /etc/timezone)
 
 #=================================================
 # DOWNLOAD, CHECK AND UNPACK SOURCE
