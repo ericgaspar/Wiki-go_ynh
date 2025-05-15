@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+LeoMoon Wiki-Go est une plateforme wiki moderne, riche en fonctionnalités et sans base de données, construite avec Go. Elle offre une interface propre et intuitive pour créer et gérer des bases de connaissances, de la documentation et du contenu collaboratif sans nécessiter de base de données externe. Pas de base de données. Pas de gonflement. Pas de maintenance. Juste Markdown.
